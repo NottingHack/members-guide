@@ -1,2 +1,4 @@
 Pledge Drives
 =============
+
+From time to time, you may see pledge drives on the hackspace mailing list. You can ignore these if you want, they exist simply to serve members interests. The tools wishlist is always much bigger than the hackspace can afford, but pledges allow the space to acquire things it might not under other circumstances. Facilities at the space are directed by the interests of members, especially where large, obscure things or expensive specialist tools are concerned. For instance, in the past we’ve had pledge drives for a vending machine, an Xbox Kinect camera, a DIY CNC machine, donations to help Leeds Hackspace, bike parking, a lathe, and replacement parts for a knitting machine.

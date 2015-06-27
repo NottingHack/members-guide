@@ -27,6 +27,7 @@ Contents:
    children
    resources
    tools
+   donations
    pledge-drives
    storage
    do-not-hack
