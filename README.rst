@@ -2,6 +2,8 @@
 Notthingham Hackspace Members Guide
 ===================================
 
+|docs|
+
 http://guide.nottinghack.org.uk
 
 Contributing
@@ -24,4 +26,7 @@ Then you can build the html version with
 
     $ make html
 
-
+.. |docs| image:: https://readthedocs.org/projects/nottingham-hackspace-members-guide/badge/?version=latest
+    :target: https://readthedocs.org/projects/nottingham-hackspace-members-guide/?badge=latest
+    :scale: 100%
+    :alt: Documentation Status
