@@ -1,0 +1,3 @@
+conf.py linguist-vendored=true
+Makefile linguist-vendored=true
+make.bat linguist-vendored=true
