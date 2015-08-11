@@ -17,6 +17,6 @@ The second Tuesday in every month is usually a cleaning evening. There is someti
 
 Hack-the-space Sundays
 ----------------------
-These are usually the last Sunday of the every month. We try to make an area within the space a bit better, for example by improving storage or tools. We also do some clearing, tidying and cleaning. The best way to find out if this is happening is to check the google group.
+These are usually the first Sunday of the every month. We try to make an area within the space a bit better, for example by improving storage or tools. We also do some clearing, tidying and cleaning. The best way to find out if this is happening is to check the google group.
 
 We like to give each Hack-the-space a focus as we find doing this really drives the work and leaves us with something amazing and concrete at the end of the day.
