@@ -37,6 +37,6 @@ and open the index page at
     _buld/html/index.html
 
 .. |docs| image:: https://readthedocs.org/projects/nottingham-hackspace-members-guide/badge/?version=latest
-    :target: https://readthedocs.org/projects/nottingham-hackspace-members-guide/?badge=latest
+    :target: http://rules.nottinghack.org.uk/en/latest/?badge=latest
     :scale: 100%
     :alt: Documentation Status
