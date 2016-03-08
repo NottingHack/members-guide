@@ -8,10 +8,8 @@ Map of Nearby Useful Things
 3. Bus stop on Carlton Road: City buses 24, 25, 26, 27, 100. Shoplink S10.
 4. Bus stop on Robin Hood Street: City bus 39.
 
-From the Hackspace, the National Ice Centre is located three minutes walk South West along Carlton Road. The City Centre is about twelve minutes walk West-North-West past Sneinton Market. Street parking is generally free on the roads around the space, though cars are quickly towed when parked on double yellows. The Aberdeen Street Car Park is pay and display, though the first hour is free. The single yellow line parking is free after 6pm until 8am, and all day Sunday.
+From the Hackspace, the City Centre is a roughly ten minute walk past Sneinton Market and Hockley. Street parking is generally free on the roads around the space, however please be aware that parking restrictions such as double yellow lines are also enforced. The Aberdeen Street Car Park is pay and display with the first hour free. The single yellow line parking is free between 18:00 and 08:00 Monday to Saturday, and all day Sunday.
 
-There is a Nottingham ‘Makers Map’ which has many useful and interesting places highlighted. It is available here:
+There is a Nottingham ‘Makers Map’ which has many useful and interesting places highlighted available here:
 
-https://www.google.com/maps/d/edit?mid=zhOHsGt9wlR4.kdpQCFdye97s&msa=0
-
-Please feel free to add any other useful resources.
+https://goo.gl/LkQ53a
