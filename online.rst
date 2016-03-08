@@ -1,70 +1,66 @@
 The Hackspace Online
 ====================
 
+Nottingham Hackspace maintains a wide online presence, with sites ranging from our social media and mailing list to our wiki and internal tools like HMS. Our online presence is one of the main ways we attract new members, communicate with existing ones, and promote our events and workshops. If you're able to help promote us from time to time whether by retweet, share or like, it is a big help toward attracting new people.
+
+We welcome contributions to all these sites; if you'd like to get involved with any please contact the relevant team, who's details can be found in Section 1.3 - Hackspace Organisation.
+
 Websites
 --------
 
-Main website
+Main website - www.nottinghack.org.uk
 ````````````
-The main website for the hackspace is: www.nottinghack.org.uk. This is our main public-facing site where events, workshops and links to other online resources are available.
+This is our main public-facing site; where events, workshops and links to other online resources are available. 
 
-Wiki
-````
-We run a wiki here: https://wiki.nottinghack.org.uk/wiki/NottingHack.  You can use your HMS account details to log into the wiki and make edits.
+The website is managed by our Comms team.
 
-As a new member you should have received a link in your email telling you how to sign up for a Wiki account and submit a feed to our planet - used for blog entries.
-
-Planet Nottinghack
-``````````````````
-If you blog about hackspace relevant stuff, you’d be most welcome to contribute your feed to Planet Nottinghack. Many members run their own blogs, & this automatically uses RSS to collect them all into one place: http://planet.nottinghack.org.uk/.  If you would like to be included on this, you just need to open a pull request against the GitHub repository.  If you’re not sure how to do this then ask on the google group.
-
-Hackspace Management System (HMS)
+Hackspace Management System (HMS) - lspace.nottinghack.org.uk/hms/
 `````````````````````````````````
-HMS was developed by hackspace members to organise and manage our ever-increasing group. Every hackspace member has an account on HMS which is accessible here:
+HMS was developed by Hackspace members to organise and manage our ever-increasing group. Every Hackspace member registers an account on HMS as part of their signup, allowing them to view their Snackspace balance, book time on tools, see our door access codes, and update their contact details when they change.
 
-https://lspace.nottinghack.org.uk/hms/
+To log in, please click the link titled: “Already a member? Login”, then enter your username and password.
 
-Then click “Already a member? Login”.
+HMS is managed by the Software team.
 
-Within HMS you can check your Snackspace account (more about that later) and book various tools.
+Wiki - wiki.nottinghack.org.uk/wiki/NottingHack
+````
+The Nottinghack Wiki is where we store information around projects and equipment, as well as organisation details for big events such as Makerfaire and EMF. As a member please feel free to start a user page to hold build logs of your projects, or when you're collaborating with other members on projects and need a place to store information.
 
-Members Gudie
+You can use your HMS account details to log into the wiki and make edits.
+
+Planet Nottinghack - planet.nottinghack.org.uk/
+``````````````````
+If you blog about Hackspace relevant stuff, projects you've made here or the subject of making and hacking as a whole, you’d be most welcome to contribute your feed to Planet Nottinghack. Many members run their own blogs, and Planet Nottinghack uses RSS to collect them all into one place.  If you would like to be included on this, please open a pull request against the GitHub repository.  If you’re not sure how to do this then ask on the Google Group.
+
+Members Guide - guide.nottinghack.org.uk
 `````````````
-This members guide is avalible online via http://guide.notitnghack.org.uk
+This members guide is available online, where you can also download PDF and Epub versions. 
 
-From there you can also download PDF and Epub version
+Want to help contribute to this guide? Make a pull request against it on GitHub or talk to the Membership team.
 
 Other forms of interaction
 --------------------------
 
-Google Mailing List
+Google Group - groups.google.com/group/nottinghack
 ```````````````````
-The main place we have discussions is the public google group, which is open to anyone: https://groups.google.com/group/nottinghack
+The main place for discussion outside of the Hackspace itself is our Google Group mailing list, which is open to contributions from anyone. Please be aware that the mailing list is 
 
-Facebook
-````````
-We also have a facebook page here: https://www.facebook.com/nottinghack
-
-Hackspace Newsletter
+Hackspace Newsletter - http://goo.gl/Go7xG8
 ````````````````````
 There is a monthly newsletter which is a great place to hear about upcoming events and hackspace related activity. You can sign up to this newsletter here:
 
 http://nottinghack.us5.list-manage1.com/subscribe?u=a4e59e4c29bd40e76419a037b&id=0a6da449c9
 
-Twitter
+Facebook - www.facebook.com/nottinghack
+````````
+Our Facebook page is one of the main ways we promote ourselves to potential new members, whether by sharing photos and videos of events or telling the world about our next big project.
+
+Twitter - @HSNotts
 ```````
-There are two Twitter accounts relevant to the hackspace:
-* @HSNotts is the general Twitter account,
-* @Holly533MHz is the voice of our server, tweeting about the various sensors built into the space. The latter account is locked down and we need to verify you as a member before it’ll accept a follow request.
+Our Twitter account works in a similar way to our Facebook page, only with 140 characters or less. We'll often tweet while at external events, with pictures of members representing Nottinghack or projects we've taken to demonstrate.
 
-Flickr
+Flickr - www.flickr.com/groups/nottinghack/
 ``````
-https://www.flickr.com/groups/nottinghack/
-
 The Nottinghack account on Flickr contains all the photos that are automatically uploaded from the Hackspace camera.  You can normally find this hanging from a hook on the wall next to the giant “H” in the studio - please take pictures of the project you are working on!
 
 If you are already a member of Flickr, you can contribute photos to the Nottinghack Group as well.
-
-IRC
-```
-There is also a #nottinghack IRC channel, located on chat.eu.freenode.net. There will sometimes be a board member in there on any given day, although traffic is often quiet so don't be disheartened if it seems empty.
