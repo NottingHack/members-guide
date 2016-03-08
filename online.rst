@@ -45,7 +45,7 @@ Google Group - groups.google.com/group/nottinghack
 ```````````````````
 The main place for discussion outside of the Hackspace itself is our Google Group mailing list, which is open to contributions from anyone. Please be aware that the mailing list is 
 
-Hackspace Newsletter - http://goo.gl/Go7xG8
+Hackspace Newsletter - newsletter.nottinghack.org.uk
 ````````````````````
 There is a monthly newsletter which is a great place to hear about upcoming events and hackspace related activity. You can sign up to this newsletter here:
 
