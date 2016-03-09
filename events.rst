@@ -1,8 +1,7 @@
 Regular Events
 ==============
+Our regular Open Hack Night takes place every Wednesday, between 18:30 and 21:00. The public are welcome to come and have a look around, get a tour, talk to willing members about the space, and use the tools and consumables for their projects. We also have regular Open Days on Saturdays, which are organised by the Membership team and promoted by the Comms team.
 
-Every Wednesday from 18:30 is the open hack night. The public are welcome to come and have a look around, talk to willing members about the space and use the tools and consumables.
+Exhibition days happen every quarter, these days are where we ask members to come into the space to work and demonstrate their projects, so the public are able to visit the Hackspace and understand more about who we are and what we do.
 
-We lead regular workshops on various subjects which are often member-led. Upcoming events are promoted on the google group, in the newsletter and on the HMS calendar: http://nottinghack.org.uk/?page_id=309. We'd love to hear from you if you're interested in running a workshop too.
-
-Many other regular events happen, which are all member-led. These include: Photography group, Retro Computing group, Bad Movie Night, Music Jam Sessions. Details of these events is usually given in the regular newsletter. Please also see the Google forum for more details about these events and when they are running.
+There are regular workshops, talks and groups on various subjects, which are often member-led and typically open to the public as well. Upcoming events are promoted on our social media, in the newsletter, the Google Group,  and on the Nottinghack homepage. We'd love to hear from you if you're interested in running a workshop, a talk, or a regular group. Not sure how to run an event? Our Events team are happy to help you plan and run something.
