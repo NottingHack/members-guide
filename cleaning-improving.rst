@@ -10,3 +10,7 @@ Hack-the-space Sundays
 These are the first Sunday of the every month, typically starting at midday. Typically concentrating on making a specific area within the space a bit better, for example by improving storage or tools, these days always need lots of members to help out and get involved. There is also clearing, tidying and cleaning the Hackspace as a whole.
 
 We've found having a focus for each Hack the Space day means we can achieve amazing things together: the Comfy Area refurbishment was done by a large group of members pitching in during a Hack the Space day.
+
+Clean-the-space Tuesdays
+-------------------------
+The second Tuesday in every month is typically a cleaning evening, where members get stuck in to help keep the Hackspace looking great. Please check the Google Group to see if this is happening on a particular month.
