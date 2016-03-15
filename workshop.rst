@@ -1,8 +1,16 @@
-The Wrokshop
+The Workshop
 ============
 
-The heart of Nottingham Hackspace is the workshop, where you’ll find most tools along with various consumables. Facilities in the workshop include workbenches, an electronics bench complete with oscilloscopes and PCB etching equipment, bike parking and repair facilities, a laser cutter, hand and power tools for joinery, a large sink plus screen printing equipment and a metalworking area with metal lathe, milling machine and welding equipment. Some of the tools and facilities in here are on loan from other members.
+The heart of Nottingham Hackspace is the workshop, where you’ll find most tools along with various consumables. Facilities in the workshop include:
 
-***Please respect things and put them back where you found them.***
+* General purpose workbenches
+* Electronics area complete with oscilloscopes and PCB etching equipment
+* Bike parking and repair facilities
+* The laser cutter, 
+* General hand and power tools for joinery
+* Large sink plus screen printing equipment
+* Metalworking area with metal lathe, milling machine and welding equipment.
+* Dusty area 
+* Spraybooth
 
-Ask about anything if you’re not sure.
+Please replace tools back in their correct storage when you have finished with them, and tidy up any dust or mess made by the tools being used.
