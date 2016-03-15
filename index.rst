@@ -9,12 +9,9 @@ Welcome to Nottingham Hackspace Members Guide's
 Introduction
 ============
 
-Welcome to Nottingham Hackspace. We hope you get a lot out of being a member. The space can be a bit daunting at first, so we’ve made this manual to tell you about most aspects of it. In particular, it’ll give you some idea of how the space is organised, what’s available within it, plus some contacts and resources in case you have any further questions. 
+Welcome to Nottingham Hackspace, we hope you get a lot out of being a member. The Hackspace can be a bit daunting at first, so we’ve created this manual to tell you about many aspects of it. In particular; it’ll give you some idea of how the space is organised, what’s available within it, and some contacts and resources in case you have any further questions. 
 
-You might feel a bit reticent as a new member, but it’s important to remember that you have as much right to use the space as anyone else now, as well as a vote in the monthly hackspace meetings. This manual should answer a lot of your questions, but if there’s anything else, email membership@nottinghack.org.uk
-
-Contents:
-
+You might feel a bit reticent as a new member, but it’s important to remember that you have as much right to use the space as anyone else, as well as a voice in the monthly Hackspace meetings. This manual should answer a lot of your questions, but if there’s anything else please email membership@nottinghack.org.uk
 .. toctree::
    :maxdepth: 2
 

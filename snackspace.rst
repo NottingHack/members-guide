@@ -1,8 +1,10 @@
 Snackspace
 ==========
 
-There is a vending machine for snacks (and electronic kits!), you can pay for these either with cash or using your members RFID card.
+There is a vending machine for snacks and drinks, which accepts both cash or your RFID membership card.
 
-If you buy items on your members RFID card then you will be invoiced via an email at the end of every month. Please pay this off using the note machine in the members storage room.
+If you buy items on your membership card you will be automatically emailed an invoice at the end of every month. Time on the laser and 3D printer will also show on this invoice, charged appropriately.
 
-If there’s something you’d like to see in snackspace, you can email us at snackspace@nottinghack.org.uk. We currently restock weekly, on a Wednesday.
+Your card can be topped off using the note machine in the member storage box area. You have access to a maximum of £20 overdraft on your account; once this limit is reached the vending machine will not vend, and tools which require your card will not turn on. There is no limit to how high you can top your card up.
+
+If there’s something you’d like to see in snackspace, please contact the Snackspace team to make a suggestion.

@@ -1,14 +1,11 @@
 Do Not Hack
 ===========
 
-If possible please take any projects home with you after working on them. This helps to reduce clutter and make sure work space is available to everyone
+Do Not Hack, also known as 'DNH', is how you mark your project as a project inside the Hackspace. The skills and tools in the Hackspace mean a wide variety of projects are being constructed at any given moment; a DNH label (and proper storage) is how you make sure your project can't be mistaken for simply being components or materials when someone tidies up.
 
-If you really do need to store a project outside of your 35l box, please only do this on the large storage shelves within the studio area.
+DNH labels can be found in several areas of the Hackspace, primarily on the LPS and the member storage box racks. These labels ask for several details:
 
-All projects should be recently worked upon as we do not want lots of half-finished projects taking up space. If your project has not been worked on for more than three months then it may be removed from the hackspace.
-
-To ensure this make sure to securely attach a “do not hack” sign, along with your name, contact details & the date.
-
-“Do Not Hack” signs ***MUST*** have a ***name, contact details*** and ***date*** on them to be valid.
-
-You must also fill in the list on the end of the shelves along with the last date the project was worked upon.
+* Name: This is how someone knows who owns the project.
+* Project: A short description or title of the project being worked on.
+* Date: The date the project was last worked on. Make sure this is kept up to date!
+* Email: How a member can contact you regarding your project if necessary.
