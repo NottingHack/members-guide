@@ -6,4 +6,4 @@ Children are welcome at Nottinghack, however be aware that it is primarily an ad
 
 **Under-18s must be accompanied by an adult**, and are generally expected to be engaged with the space some way (such as working on a project). Periodically we have events specifically for children of all ages.
 
-.. __: membership@nottinghack.org.uk
+.. __: mailto:membership@nottinghack.org.uk
