@@ -15,7 +15,7 @@ The day-to-day running of the Hackspace is done by every one of our members. Eve
 
 More specific activites are managed by teams within the Hackspace, a list of which can be found below. Please remember the Hackspace is a community and not a service; we can't guarantee tool uptime or material availability. The teams are all members like yourself, who volunteer their time to help make the space better.
 
-Want to get involved in a team? Drop them an email, or ask them when they're in the space.
+Want to get involved in a team? Drop them an email, ask them when they're in the space or join them on Slack by registering here: http://slack.nottinghack.org.uk/ (Slack is like a set of web based IRC channels accompanied by mobile apps.)
 
 Safety - safety@nottinghack.org.uk
 ``````````````````````````````````
