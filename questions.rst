@@ -1,9 +1,9 @@
 Questions
 =========
 
-If you have any questions or requests, the best places to ask are the public group forum (unless your question involves confidential stuff), the IRC channel, or in person at the Open Hack night, which is every Wednesday from 18:30.
+If you have any questions or requests, the best places to ask are the public Google Group (unless your question involves confidential stuff), Slack (if it's a question for a specific team), or in person at the Open Hack night, which is every Wednesday from 18:30.
 
-Membership enquiries and handled through the membership team: membership@nottinghack.org.uk. If there’s anything you can’t get answered on the public google group, just get in touch.
+Membership enquiries and handled through the membership team: membership@nottinghack.org.uk. If there’s anything you can’t get answered on the public Google Group, just get in touch.
 
 If you need to discuss something in private, or have a complaint, please contact the trustees at trustees@nottinghack.org.uk.
 
