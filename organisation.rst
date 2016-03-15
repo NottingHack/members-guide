@@ -31,6 +31,10 @@ The 3D Printing team are responsible for the maintenance, improvements and induc
 
 .. __: https://goo.gl/RJPI5K
 
+Events - events@nottinghack.org.uk
+``````````````````````````````````
+The Events team work with people to arrange and facilitate Workshops and other extravagent goings-on at the Hackspace.  If you have an idea for a workshop you could run, or would like to attend, get in touch with them.
+
 Communications - comms@nottinghack.org.uk
 `````````````````````````````````````````
 The Communications team look after our outward facing presence such as our website, newsletter, twitter and facebook. If you have interesting photos of the Hackspace, or something you'd like to ask around promotion, get in touch with them.
