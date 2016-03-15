@@ -1,6 +1,6 @@
 Comfy Area
 ==========
 
-The first room you enter at Nottingham Hackspace is the comfy area, where people tend to congregate and socialise.
+The comfy are is a place where people tend to congregate and socialise. With a project, soft furnishings, coffee tables, and shelves full of books, it's an excellent place to relax.
 
-This is a comfortable area with a sound system, cinema and the museum of cool looking stuff that we like to have around but don’t really want to hack.
+A sound system and PC is available for use along with the projector, typically running a flavour of linux. The museum of cool/old/weird stuff exists for us to showcase some technical oddities that we've collected over the years, from decades old consoles to an Amstrad phone. These items are not available for hacking, but if you've got something quirky you'd like to donate for display then feel free to let us know.
