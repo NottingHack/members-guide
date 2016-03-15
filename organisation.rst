@@ -1,7 +1,7 @@
 Hackspace Organisation and Teams
 ======================
 
-Nottingham Hackspace is registered as a non-profit limited company (Reg. No. 07766826). Surplus after rent and other expenses are used for tools, consumables, and Hackspace improvements.
+Nottingham Hackspace is registered as a non-profit limited company (Reg. No. 07766826). Surplus after rent and other expenses are used for tools, consumables, and Hackspace improvements (such as infrastructure and refurbishment work).
 
 An elected Board of Trustees comprised of seven people oversee Nottingham Hackspace; ensuring financial sustainability and managing critical issues. All of the board are volunteers, Nottinghack does not have any paid employees or membership tiers. **Members' meetings are held in the Hackspace at 20:00, on the first Wednesday of each month.** These meetings, and votes conducted at the meetings, are open to all members. 
 
