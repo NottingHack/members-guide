@@ -22,8 +22,8 @@ To log in, please click the link titled: “Already a member? Login”, then ent
 
 HMS is managed by the Software team.
 
-Wiki - wiki.nottinghack.org.uk/wiki/NottingHack
-```````````````````````````````````````````````
+Wiki - wiki.nottinghack.org.uk
+``````````````````````````````
 The Nottinghack Wiki is where we store information around projects and equipment, as well as organisation details for big events such as Makerfaire and EMF. As a member please feel free to start a user page to hold build logs of your projects, or when you're collaborating with other members on projects and need a place to store information.
 
 You can use your HMS account details to log into the wiki and make edits.
