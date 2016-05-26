@@ -1,25 +1,32 @@
 Hackspace Rules
 ===============
+Every member and guest of the space is expected to follow the rules.
 
-0. Do not be on fire.
-    In everything, first and foremost look after your own and others safety.
-1. Pay what you like but pay monthly.
-    Nobody gets free membership, because it costs money to run the Hackspace. Membership costs are up to you, all we ask is that your subscription covers the use you get from the space.
-2. 35L storage.
-    All members paying £10 or more per month get storage space if they want it. This is usually a 35L box, but see page 10 for exceptions.
-3. Talk is cheap.
-    Hackspaces are full of ideas. Getting stuff done always trumps talking and as long as something won’t interfere with the space or other members, then it’s okay to go ahead. If you're worried about this, ask on the mailing list.
-4. No CRTs.
-    The Hackspace gets offered a lot of donations, but does not accept CRTs. Old TVs and monitors are obsolete, power hungry tech and very few people want them anymore.
-5. Do not hack means do not hack.
-    Certain things in the space are there to be used rather than hacked. It should be obvious with most things, but in cases where it’s not you can make it so by putting a “DO NOT HACK” sign on it. The sign MUST also include your name, the date it was last worked on and contact details.
-6. Clean up after yourself.
-    Don’t leave a wake of tools, offcuts, dust and crockery. The Hackspace has members, not staff.
-7. No overnight sleeping.
-    While at present we’re permitted 24 hour access, under the terms of our lease the space is not for overnight sleeping.
-8. Don't be a contemptible fellow (be excellent to each other)
-    This is our main rule of behaviour. It takes priority over all other rules.
+Below is a summary of the rules, each has its own full description that can be accessed on the rules site at rules.nottinghack.org.uk .
 
-For a full elaboration of the rules, visit them on the wiki: https://wiki.nottinghack.org.uk/wiki/Rules
+0. Rule 0: Do Not Be On Fire
+    It is essential you use the Space safely as a responsible adult.
+1. Membership of the Hackspace
+    Any person aged 18 or over can join Nottingham Hackspace, by visiting on a open night, providing correct details, and setting up and maintaining a monthly payment into our nominated bank account.
+2. Guests & Visitors
+    Guests & visitors are **welcome in the Hackspace**. However whoever brings them into the space or lets them into the Space is **wholly responsible for them**.
+3. Be Excellent To One Another
+    We ask that you respect others when using the Hackspace. Do this by **cleaning up after yourself**, abiding by our **safe spaces** policy and **code of conduct**.
+4. Respect the Hackspace
+    We ask that you respect the Hackspace. Do this by **cleaning up after yourself**, by being careful not to **damage infrastructure** and by **reporting both damaged/broken tools and infrastructure**.
+5. Do Not Hack
+    Do Not Hack is an integral part of the Hackspace. Do Not Hack means you are claiming materials, a donation or a project as your own, and requesting that no other members 'hack' the component parts.
+6. UK Legislation
+    Whilst in the Hackspace you must abide by all applicable UK laws and legislation.
+7. Storage in the Hackspace
+    Remember that the **Hackspace has limited storage space**. We have designated storage space for **consumables, resources** and **members’ storage**.
+8. Donating to Nottingham Hackspace
+    **Consider the benefit to the Nottingham Hackspace** when making a donation. Do this by posting your items and offers to the Google Group. Is there a general consensus from the members about its use or usefulness?
 
-We ask that members keep their projects and actions at the space legal.
+Appendices
+----------
+
+A. Complaints Policy
+    This is the policy followed by the Trustees when we receive a complaint.
+B. SafeSpaces Policy
+    This policy sets out what behaviour is inappropriate in that it may amount to harassment.
