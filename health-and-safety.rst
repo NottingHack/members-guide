@@ -7,6 +7,8 @@ The Hackspace has a lot of potentially dangerous tools available to members; if 
 
 Safety equipment (PPE) is readily available within the workshop; a range of PPE such as goggles, gloves, face masks, and other such items are kept ready for use by all members and topped up on a regular basis.
 
+Additionally, a lone worker alarm with emergency buttons are provided next to the safety equipment. If you are working in the space on your own, it is good practice to keep one of these buttons on you so that you can call for help if needed. Please replace it when you are finished. If pressed, the alarm will call a number of members who live close by.
+
 When in doubt about another member's safety do approach them to discuss it, or raise it with the `Safety Team`__. Every Hackspace member has the right and responsibility to challenge unsafe behaviours.
 
 The following quote provides good guidance on workshop safety:
