@@ -63,7 +63,7 @@ Membership - membership@nottinghack.org.uk
 ````````````````````````````````````````````
 The Membership team manage the membership administration such answering questions from members new and old, conducting tours during Open Events, managing signups, and much more. Tours of the Hackspace form an integral part of bringing new members into the space; the Membership team are present at events, as well as our Open Nights and Open Days, to ensure visitors see the best of the Hackspace every time.
 
-Metalworking - metalwork@nottinghack.org.uk
+Metalworking - metalworking@nottinghack.org.uk
 ````````````````````````````````````````````
 With a large metalworking area including several large machines, the Metalwork team take care of all our tools that form, join and shape metal. Please be aware that a lot of the metalwork tools need inductions, this is for both user safety and tool maintenance reasons.
 
