@@ -14,9 +14,9 @@ This is our main public-facing site; where events, workshops and links to other 
 
 The website is managed by our Comms team.
 
-Hackspace Management System (HMS) - lspace.nottinghack.org.uk/hms/
+Hackspace Management System (HMS) - hms.nottinghack.org.uk/
 ``````````````````````````````````````````````````````````````````
-HMS was developed by Hackspace members to organise and manage our ever-increasing group. Every Hackspace member registers an account on HMS as part of their signup, allowing them to view their Snackspace balance, book time on tools, see our door access codes, and update their contact details when they change.
+HMS was developed by Hackspace members to organise and manage our ever-increasing group. Every Hackspace member registers an account on HMS as part of their signup, allowing them to view their Snackspace balance, book time on tools, see our door access codes, and update their contact details when they change. HMS is also use to manage member project and print approved Do Not Hack labels.
 
 To log in, please click the link titled: “Already a member? Login”, then enter your username and password.
 
