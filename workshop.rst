@@ -14,3 +14,5 @@ The heart of Nottingham Hackspace is the workshop, where you’ll find most tool
 * Spraybooth
 
 Please replace tools back in their correct storage when you have finished with them, and tidy up any dust or mess made by the tools being used.
+
+To find out more see the `wiki Workshop page <https://wiki.nottinghack.org.uk/wiki/Workshop>`_
