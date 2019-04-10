@@ -19,3 +19,5 @@ Using the 'Add New Project' button lets you create a new project, simply complet
 Once your project is saved; simply click the 'Print DNH Label' option to get your label printed automatically! The printer on the Large Project Shelves will create you a custom sticker containing all the necessary information, ready to be applied.
 
 Note the **Print** button will only appears while in the Hackspace and using the hackspace network.
+
+More information about Do Not Hack is on the wiki https://wiki.nottinghack.org.uk/wiki/DO_NOT_HACK_means_DO_NOT_HACK
