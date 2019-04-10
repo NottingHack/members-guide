@@ -11,4 +11,4 @@ We love volunteers, please see the page on the wiki https://wiki.nottinghack.org
 
 For Events
 -------------------------
-For HAck the space events please see the events page https://wiki.nottinghack.org.uk/wiki/Events
+For Hack the space events please see the events page https://wiki.nottinghack.org.uk/wiki/Events
