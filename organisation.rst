@@ -104,7 +104,7 @@ The Tools team manage the tools within the Hackspace, ensuring that broken tools
 
 Woodworking - woodworking@nottinghack.org.uk
 ````````````````````````````````````````````
-The Woodworking team manage the woodwork specific tools within the Hackspace, such as the wood lathe and table saw. Some of the larger woodwork tools such as the table saw require inductions, for user safety.
+The Woodworking team manage the woodwork specific tools within the Hackspace, such as the wood lathe and table saw. Some of the larger woodwork tools such as the planer thicknesser require inductions, for user safety.
 
 Woodwork tool inductions can be requested on the `Induction Form`__.
 
