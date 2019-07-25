@@ -14,6 +14,4 @@ When in doubt about another member's safety do approach them to discuss it, or r
 The following quote provides good guidance on workshop safety:
 “Before we use any power tools, let's take a moment to talk about shop safety. Be sure to read, understand, and follow all the safety rules that come with your power tools. Knowing how to use your power tools properly will greatly reduce the risk of personal injury. And remember this: there is no more important safety rule than to wear these — safety glasses.”
 
-Please also see https://rules.nottinghack.org.uk
-
 .. __: https://wiki.nottinghack.org.uk/wiki/Safety_Team
