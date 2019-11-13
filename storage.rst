@@ -9,7 +9,7 @@ Any projects outside of a storage box that is not being worked on should be remo
 
 Storage Box
 -----
-As a member of the Hackspace, you are entitled to purchase and store a 35 litre box in the storage box area. A box costs £5, and once purchased stacks with the other boxes within the racks and is yours to use as project storage (subject to the rules around storage of dangerous or flammable materials). To get a box, simply request one from the Membership team at any Open Hack event, and if there is an available box and a spare slot they will help you get set up with one.
+As a member of the Hackspace, you are entitled to purchase and store a 35 litre box in the storage box area. A box costs £7.50, and once purchased stacks with the other boxes within the racks and is yours to use as project storage (subject to the rules around storage of dangerous or flammable materials). To get a box, simply request one from the Membership team at any Open Hack event, and if there is an available box and a spare slot they will help you get set up with one.
 
 Boxes should be marked with an identifying name, so we know who owns each one. Other than that you are welcome to add any other decoration you may wish; some members add their twitter handles or stickers to their boxes.
 
