@@ -10,6 +10,8 @@ Contributing
 ============
 The members guide is written using reStructuredText for more info on the syntax please visit http://docutils.sourceforge.net/rst.html
 
+A reStructuredText online editor is here: http://rst.ninjs.org
+
 The docs are built and hosted by Read The Docs http://readthedocs.org
 
 If you wish to improve this guide please either open a `issue <https://github.com/NottingHack/members-guide/issues>`_ or a `pull request <https://github.com/NottingHack/members-guide/pulls>`_
