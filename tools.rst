@@ -27,4 +27,6 @@ Inductions are required on equipment that is potentially very dangerous or that 
 
 Inductions can be booked via the `Induction Form`__, however bear in mind that inductions are done by other members: please be patient for training slots to appear.
 
+Details of the tools we have can be found on the wiki https://wiki.nottinghack.org.uk/wiki/Tools
+
 .. __: https://goo.gl/RJPI5K
