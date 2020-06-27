@@ -4,6 +4,8 @@ Nottingham Hackspace has a large variety of tools available for members to use, 
 
 Please tidy up and put everything back after you’ve finished using a tool.
 
+**Please note: Tools are not to be removed from the Hackspace at any time.**
+
 Maintenance
 -----------
 If you find a broken tool, or break one yourself, don’t panic! Tools break all the time and you are not in trouble. Fill out the `Broken Tools`__ form and apply an orange 'Out of Order' tag to it (or if it is a small tool put it into the broken tools bin near the dusty area).

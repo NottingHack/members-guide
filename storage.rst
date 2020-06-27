@@ -19,7 +19,7 @@ The LPS is an area designed for storing those projects that are too large for a 
 
 Each month the LPS is audited for projects that fall under the following criteria:
 
-* No DNH label attached
+* No "Do Not Hack" (DNH) label attached
 * No name or date on a DNH label
 * A date older than three months of the date of audit
 

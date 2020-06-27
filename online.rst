@@ -43,7 +43,7 @@ Other forms of interaction
 
 Google Group - groups.google.com/group/nottinghack
 ``````````````````````````````````````````````````
-The main place for discussion outside of the Hackspace itself is our Google Group mailing list, which is open to contributions from anyone. Please be aware that the mailing list is 
+The main place for discussion outside of the Hackspace itself is our Google Group mailing list, which is open to contributions from anyone. Please be aware that the mailing list is publically accessable so any and everyone can see anything you post there.
 
 Hackspace Newsletter - newsletter.nottinghack.org.uk
 ````````````````````````````````````````````````````
