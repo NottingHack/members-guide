@@ -15,11 +15,11 @@ The day-to-day running of the Hackspace is done by every one of our members. Eve
 
 More specific activites are managed by teams within the Hackspace, a list of which can be found below. Please remember the Hackspace is a community and not a service; we can't guarantee tool uptime or material availability. The teams are all members like yourself, who volunteer their time to help make the space better.
 
-Want to get involved in a team? Drop them an email, or ask them when they're in the space.
+Want to get involved in a team? Drop them an email, or ask them when they're in the space. You can find more information about Teams on the wiki: https://wiki.nottinghack.org.uk/wiki/Teams
 
 Safety - safety@nottinghack.org.uk
 ``````````````````````````````````
-Safety at Nottingham Hackspace is paramount. As part of this the safety team ensure that protective equipment is available, monitor safety of our tools, and identify any new risks that may appear.
+Safety at Nottingham Hackspace is paramount. The trustees are primarily responsible for safety but members can offer assistance to ensure that protective equipment is available, monitor safety of our tools, and identify any new risks that may appear.
 
 Please remember: **Wear protective equipment when using tools.** Be sure to read, understand, and follow all the safety rules needed for power tools. Using tools properly reduces risk of injury to yourself and others.
 
@@ -30,6 +30,10 @@ The 3D Printing team are responsible for the maintenance, improvements and induc
 3D printer inductions can be requested on the `Induction Form`__.
 
 .. __: https://goo.gl/RJPI5K
+
+CNC - cnc@nottinghack.org.uk
+````````````````````````````
+The CNC team looks after the CNC area and related computer aided manufacturing tools.
 
 Communications - comms@nottinghack.org.uk
 `````````````````````````````````````````
@@ -55,10 +59,6 @@ Laser cutter inductions can be requested on the `Induction Form`__.
 
 .. __: https://goo.gl/RJPI5K
 
-Maintainers - maintainers@nottinghack.org.uk
-````````````````````````````````````````````
-The Maintenance team manage the ongoing maintenance and repairs of the more specialised tools in the Hackspace, such as the laser cutter and 3D printer.
-
 Membership - membership@nottinghack.org.uk
 ````````````````````````````````````````````
 The Membership team manage the membership administration such answering questions from members new and old, conducting tours during Open Events, managing signups, and much more. Tours of the Hackspace form an integral part of bringing new members into the space; the Membership team are present at events, as well as our Open Nights and Open Days, to ensure visitors see the best of the Hackspace every time.
@@ -76,17 +76,11 @@ Network - network@nottinghack.org.uk
 ````````````````````````````````````````````
 The Network team are responsible for ensuring that the Hackspace stays connected with the outside world, and that our automated services keep talking to each other.
 
-Resources - resources@nottinghack.org.uk
+Resources and Snackspace - snackspace@nottinghack.org.uk
 ````````````````````````````````````````````
-The Resources Team look after all those consumable things in the space, from toilet rolls to Stanley knife blades. Requests from members are accepted and encouraged, and can be submitted either via email, their `wiki page`__, or via the request board in the Hackspace.
+The Resources and Snackspace Team look after all those consumable things in the space, from tea, coffee and vending machine items to toilet rolls and Stanley knife blades. Requests from members are accepted and encouraged, and can be submitted either via email.
 
-.. __: https://wiki.nottinghack.org.uk/wiki/Resources_Team
-
-Snackspace - snackspace@nottinghack.org.uk
-````````````````````````````````````````````
-The Snackspace team ensure that the vending machine and fridge are full of treats and snacks to keep you fuelled. The team also manage the Nottinghack Material Shop; providing materials for sale such as wood and perspex for the laser cutter, and 3D printer filament.
-
-If you have any requests for the Snackspace team, please contact them on the email above.
+.. __: https://wiki.nottinghack.org.uk/wiki/Team:Resources_and_Snackspace
 
 Software - software@nottinghack.org.uk
 ````````````````````````````````````````````
@@ -95,12 +89,6 @@ The Software team are responsible for keeping all the automation within the Hack
 The Nottinghack repositories can be found `here on Github`__ 
 
 .. __: http://github.com/NottingHack
-
-Tools - tools@nottinghack.org.uk
-````````````````````````````````
-The Tools team manage the tools within the Hackspace, ensuring that broken tools are fixed or replaced, and buying new tools to provide more kit to work with. If you find a tool that is broken, it can be reported on our `'Broken Tools'`__ form, please also place one of the bright orange 'Out of Order' tags on it as well.
-
-.. __: http://goo.gl/zXpof6
 
 Woodworking - woodworking@nottinghack.org.uk
 ````````````````````````````````````````````
