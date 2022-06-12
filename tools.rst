@@ -19,11 +19,12 @@ We ask everyone to assess themselves with regards to using the tools - Do you ha
 
 Inductions are required on equipment that is potentially very dangerous or that is expensive. At present an induction is required before members can use the following equipment:
 
-* 3D printer
+* 3D printers
 * Laser cutter
 * Metal lathe
 * Metal milling machine
-* Welding equipment
+* Tig welding equipment
+* Planer Thicknesser
 
 Inductions can be booked via the `Induction Form`__, however bear in mind that inductions are done by other members: please be patient for training slots to appear.
 
