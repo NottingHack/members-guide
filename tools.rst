@@ -29,6 +29,7 @@ Inductions are required on equipment that is potentially very dangerous or that 
 * Warco GH1330 Lathe
 * Tablesaw
 * Planer / Thicknesser
+* Tig welder
 
 Inductions can be booked via the `Induction Form`__, however bear in mind that inductions are done by other members: please be patient for training slots to appear.
 
