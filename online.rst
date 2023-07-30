@@ -45,12 +45,6 @@ Google Group - groups.google.com/group/nottinghack
 ``````````````````````````````````````````````````
 The main place for discussion outside of the Hackspace itself is our Google Group mailing list, which is open to contributions from anyone. Please be aware that the mailing list is 
 
-Hackspace Newsletter - newsletter.nottinghack.org.uk
-````````````````````````````````````````````````````
-There is a monthly newsletter which is a great place to hear about upcoming events and hackspace related activity. You can sign up to the newsletter `here`__
-
-.. __: https://newsletter.nottinghack.org.uk
-
 Facebook - www.facebook.com/nottinghack
 ```````````````````````````````````````
 Our Facebook page is one of the main ways we promote ourselves to potential new members, whether by sharing photos and videos of events or telling the world about our next big project.
