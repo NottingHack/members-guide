@@ -35,6 +35,7 @@ You might feel a bit reticent as a new member, but it’s important to remember 
    workshop
    kitchen
    blue
+   electronics-3d
    snackspace
    cleaning-improving
    guests

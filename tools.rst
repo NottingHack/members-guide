@@ -19,15 +19,20 @@ We ask everyone to assess themselves with regards to using the tools - Do you ha
 
 Inductions are required on equipment that is potentially very dangerous or that is expensive. At present an induction is required before members can use the following equipment:
 
-* 3D printers
+
 * Laser cutter
-* Metal lathe
-* Metal milling machine
-* Tig welding equipment
-* Planer Thicknesser
+* Ultimaker 3D printer
+* Anycubic Photon 3D printer
+* Embroidery machine
+* Bridgeport milling machine
+* Myford Super 7 Lathe
+* Warco GH1330 Lathe
+* Tablesaw
+* Planer / Thicknesser
+* Tig welder
 
 Inductions can be booked via the `Induction Form`__, however bear in mind that inductions are done by other members: please be patient for training slots to appear.
 
-Details of the tools we have can be found on the wiki https://wiki.nottinghack.org.uk/wiki/Tools
+Details of the tools we have can be found on the wiki https://wiki.nottinghack.org.uk/wiki/Tools. The most up to date list of induction-only tools can also be found on HMS under the Tools page.
 
 .. __: https://goo.gl/RJPI5K
