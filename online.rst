@@ -28,9 +28,11 @@ The Nottinghack Wiki is where we store information around projects and equipment
 
 You can use your HMS account details to log into the wiki and make edits.
 
-Planet Nottinghack - https://planet.nottinghack.org.uk
-``````````````````````````````````````````````
-If you blog about Hackspace relevant stuff, projects you've made here or the subject of making and hacking as a whole, you’d be most welcome to contribute your feed to Planet Nottinghack. Many members run their own blogs, and Planet Nottinghack uses RSS to collect them all into one place.  If you would like to be included on this, please open a pull request against the GitHub repository.  If you’re not sure how to do this then ask on the Google Group.
+Rules - https://rules.nottinghack.org.uk
+````````````````````````````````````````
+
+You should be aware of all Nottingham Hackspace rules and our complaints policy. These are broken up into sections, much like this guide.
+
 
 Members Guide - https://guide.nottinghack.org.uk
 ````````````````````````````````````````
@@ -63,10 +65,10 @@ Mastodon is a lot like Twitter, but decentralised and hosted by an individual or
 
 Instagram - https://instagram.com/nottinghack
 `````````````````````````````````````````````
-A popular photo sharing account.
+A popular photo sharing account - tag us in your posts! We love to share your projects.
 
 Flickr - https://www.flickr.com/groups/nottinghack/
 ```````````````````````````````````````````
-The Nottinghack account on Flickr contains all the photos that are automatically uploaded from the Hackspace camera.  You can normally find this hanging from a hook on the wall next to the giant “H” in the studio - please take pictures of the project you are working on!
+The Nottinghack account on Flickr contains all the photos that are automatically uploaded from the Hackspace camera.
 
-If you are already a member of Flickr, you can contribute photos to the Nottinghack Group as well.
+If you are already a member of Flickr, please contribute your photos to the Nottinghack group.

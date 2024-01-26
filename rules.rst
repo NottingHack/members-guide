@@ -30,5 +30,7 @@ A. Complaints Policy
     This is the policy followed by the Trustees when we receive a complaint.
 B. SafeSpaces Policy
     This policy sets out what behaviour is inappropriate in that it may amount to harassment.
+C. Discord Policy
+    Some additional rules and best practices to follow while using Discord.
 
 .. _rules.nottinghack.org.uk: https://rules.nottinghack.org.uk
