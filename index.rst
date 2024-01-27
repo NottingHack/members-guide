@@ -40,7 +40,7 @@ You might feel a bit reticent as a new member, but it’s important to remember 
    cleaning-improving
    guests
    questions
-
+   contributing
 
 Indices and tables
 ==================
