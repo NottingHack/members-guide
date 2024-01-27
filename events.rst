@@ -15,6 +15,13 @@ Typical Events and Themes
 
 The best way to stay up to date with events in the hackspace is to join our `Discord <online.html#discord-https-wiki-nottinghack-org-uk-discord>`_ server. We try to post these on our website too on the `What's On <https://nottinghack.org.uk/calender/>`_ page.
 
+Member's Meeting
+^^^^^^^^^^^^^^^^
+
+All members are invited to the monthly members meeting. These occur on the first Wednesday of each month at 20:00. You can attend remotely via Zoom, or just us in the Blue Room downstairs. The agenda is published at least a few days prior to the meeting, which can be found on the Wiki `Agenda <https://wiki.nottinghack.org.uk/index.php?title=Agenda>`_ page.
+
+We use the meeting as an opportunity to provide updates on improvements to the space, plan areas to be worked on, and receive updates from various teams.
+
 Membership Tours
 ^^^^^^^^^^^^^^^^
 
