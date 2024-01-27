@@ -32,5 +32,7 @@ B. SafeSpaces Policy
     This policy sets out what behaviour is inappropriate in that it may amount to harassment.
 C. Discord Policy
     Some additional rules and best practices to follow while using Discord.
+D. GDPR and Privacy Policy
+    Information about how we handle and store your information.
 
 .. _rules.nottinghack.org.uk: https://rules.nottinghack.org.uk
