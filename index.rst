@@ -14,7 +14,7 @@ Welcome to Nottingham Hackspace, we hope you get a lot out of being a member. Th
 You might feel a bit reticent as a new member, but it’s important to remember that you have as much right to use the space as anyone else, as well as a voice in the monthly Hackspace meetings. This manual should answer a lot of your questions, but if there’s anything else please email membership@nottinghack.org.uk
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    map
    online
