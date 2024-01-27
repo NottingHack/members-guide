@@ -33,6 +33,6 @@ Inductions are required on equipment that is potentially very dangerous or that 
 
 Inductions can be booked via the `Induction Form`__, however bear in mind that inductions are done by other members: please be patient for training slots to appear.
 
-Details of the tools we have can be found on the wiki https://wiki.nottinghack.org.uk/wiki/Tools. The most up to date list of induction-only tools can also be found on HMS under the Tools page.
+Details of the tools we have can be found on the wiki https://wiki.nottinghack.org.uk/wiki/Tools. The most up to date list of induction-only tools can also be found on HMS under the Tools page. Please remember that inductions are run by volunteers, and their time might be limited. You should not expect to get an induction immediately, but our teams try their best!
 
 .. __: https://goo.gl/RJPI5K
