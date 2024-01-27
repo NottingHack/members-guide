@@ -27,6 +27,9 @@ Discord - https://wiki.nottinghack.org.uk/Discord
 `````````````````````````````````````````````````
 Discord is an instant messaging platform which we to allow teams and members to communicate. Your discord account needs to be linked to your Hackspace Management System account in order to see the majority of channels.
 
+We have a separate policy on using Discord, which covers some basic netiquette. This can be found as `Appendix C on our rules site <https://rules.nottinghack.org.uk/en/latest/discord.html>`_.
+
+Our Discord also has a number of commands which interact in some way with the hackspace. For example, you can check the temperature of various areas by sending "!temp", or search the Wiki with "!wiki <search term>"
 
 Wiki - https://wiki.nottinghack.org.uk
 ``````````````````````````````
