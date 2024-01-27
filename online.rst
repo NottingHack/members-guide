@@ -22,6 +22,12 @@ To log in, please click the link titled: “Already a member? Login”, then ent
 
 HMS is managed by the Software team.
 
+
+Discord - https://wiki.nottinghack.org.uk/Discord
+`````````````````````````````````````````````````
+Discord is an instant messaging platform which we to allow teams and members to communicate. Your discord account needs to be linked to your Hackspace Management System account in order to see the majority of channels.
+
+
 Wiki - https://wiki.nottinghack.org.uk
 ``````````````````````````````
 The Nottinghack Wiki is where we store information around projects and equipment, as well as organisation details for big events such as Makerfaire and EMF. As a member please feel free to start a user page to hold build logs of your projects, or when you're collaborating with other members on projects and need a place to store information.
@@ -40,12 +46,8 @@ This members guide is available online, where you can also download PDF and Epub
 
 Want to help contribute to this guide? Make a pull request against it on GitHub or talk to the Membership team.
 
-Other forms of interaction
+Social Media and Groups
 --------------------------
-
-Discord - https://wiki.nottinghack.org.uk/Discord
-`````````````````````````````````````````````````
-Discord is an instant messaging platform which we to allow teams and members to communicate. Your discord account needs to be linked to your Hackspace Management System account in order to see the majority of channels.
 
 Google Group - https://groups.google.com/group/nottinghack
 ``````````````````````````````````````````````````
