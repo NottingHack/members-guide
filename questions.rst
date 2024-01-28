@@ -34,11 +34,24 @@ I used to be a member, can I restart my membership?
 
 If you've decided you'd like to become a member again, set up a standing order using the payment reference available on HMS. This can be found on the `Membership Payment page <https://hms.nottinghack.org.uk/bank-transactions>`_. As long as you use the correct payment reference, your transaction should be picked up within a few working days, although this is usually the same day.
 
-I have some concerns about another member or a trustee.
--------------------------------------------------------
+How do I get into the Hackspace?
+--------------------------------
+
+If you can’t physically find the outside of the space (for example, if you are visiting for a tour or an event, or have forgotten where it is located), please see the information on the wiki `Getting to the space <https://wiki.nottinghack.org.uk/wiki/Getting_to_the_space>`_ page.
+
+Once you have found at least one of the access points into the building, you will need to open the door and navigate inside. Some of the doors have keycodes, which you can find on the `Space Access <https://hms.nottinghack.org.uk/gatekeeper/space-access>`_ page (active members only); there is some more information about routes into the space on the `Getting to the space <https://wiki.nottinghack.org.uk/wiki/Access_to_the_space>`_ page. The doors into the Hackspace itself can only be opened with your RFID card from the outside (some also normally require an RFID card to open from inside, but they also have emergency release buttons).
+
+How do I get an RFID card?
+--------------------------
+
+If you are a new member and don’t yet have a card, then you can collect one by following the `Gatekeeper Setup <https://wiki.nottinghack.org.uk/wiki/HMS/Gatekeeper_Setup>`_ instructions. If you need a replacement card, or want a spare one, please email the membership team who can give you a PIN to collect one following the same instructions. Please make a £1 donation to the space if you are replacing a lost card or taking an extra one.
+
+I have some concerns about another member, a trustee or the space
+-----------------------------------------------------------------
 
 If you think another member is breaking any hackspace rules, its important to let the trustees know. This allows us to keep the hackspace a safe and welcoming place. You can do this by emailing the trustees at trustees@nottinghack.org.uk. If you have an issue with a specific trustee, you should contact another one. We have a full list of our current trustees on the `Trustees <https://wiki.nottinghack.org.uk/wiki/Trustees>`_ page. Your complaint will be handled with discretion.
 
+If you have a complaint about the Space itself, it’s worth keeping in mind that the Hackspace is a community, not a service. It will only continue to exist and become better if members (including you) work hard to make it happen. See "I have a great idea..." FAQ below.
 
 I'd like to show my friend around the space, is that ok?
 --------------------------------------------------------
@@ -49,6 +62,45 @@ I want to run a workshop or event.
 ----------------------------------
 
 Excellent, we love workshops and events! If you want to organise a members only event, go ahead and organise it! You can put up posters, create an "Event" on Discord, and ask the comms team to advertise it. If you want to invite members of the public, we require you to speak to a trustee first. This will require a short risk assessment form filling in, we're happy to help you with that.
+
+Can I store projects or materials in the space?
+-----------------------------------------------
+
+Small items can be stored in your member’s box. You can buy a box `using HMS <https://hms.nottinghack.org.uk/boxes>`_.
+
+If you are working on something bigger, it can be stored temporarily in the large projects area in the studio. Make sure it is properly identified by `printing a label on HMS <https://hms.nottinghack.org.uk/projects>`_ (link only works when using the `Hackspace wifi <https://hms.nottinghack.org.uk/gatekeeper/space-access>`_), and keep in mind that large items should only be stored temporarily.
+
+Is there a [thing] in the Hackspace?
+------------------------------------
+
+There is a lot of information on tools and materials on the `wiki <https://wiki.nottinghack.org.uk/wiki/Tools>`_. However, the wiki is only kept up to date by members and so it is not always accurate. You can always check by asking on `Discord <https://wiki.nottinghack.org.uk/wiki/Discord>`_. If you think something might make a good addition, consider starting a `pledge drive <pledge-drives.html>`_.
+
+There is a [thing] in the Hackspace but I don’t know how to use it - can anyone help me?
+----------------------------------------------------------------------------------------
+
+The `wiki <https://wiki.nottinghack.org.uk>`_ may have some useful links to manuals or videos, but it is always worth asking (nicely) on `Discord <https://wiki.nottinghack.org.uk/wiki/Discord>`_ or the `Google group <https://groups.google.com/g/nottinghack>`_. There are lots of generous people at the Hackspace who might be willing to give you some pointers.
+
+If the tool you’re interested in is popular, you could also try hanging around near it, waiting for someone to start using it and asking them. Most people will be happy to talk through what they are doing (although some people might not be feeling chatty, which is also fine - so please remember `Rule 3 <https://rules.nottinghack.org.uk/en/latest/be-excellent-to-one-another.html>`_ and be sensitive to other hackers).
+
+I have a [thing] - can I donate it?
+-----------------------------------
+
+The answer is, almost certainly, “perhaps”. Please see the section on `donations <donations.html>`_.
+
+How long do I have to wait for a tool induction?
+------------------------------------------------
+
+Tool inductions are done by members in their free time, and unfortunately some tools have more inductors than others. Typically you will hear back within a week or two for tools like the laser cutter or embroidery machine.
+
+For the larger metalworking tools, we no longer run internal inductions but we have an arrangement with West Notts College for members to attend metalworking courses. If you have suitable qualifications for these tools then please contact the metalworking team to gain access.
+
+
+I have a great idea to improve the space, how do I make a suggestion?
+---------------------------------------------------------------------
+
+Wonderful! You can always bring up ideas on `Discord <https://wiki.nottinghack.org.uk/wiki/Discord>`_ or at a `members’ meeting <https://wiki.nottinghack.org.uk/wiki/Agenda>`_. However, bear in mind that the Hackspace is a collective, member-run organisation before you get too carried away. Will it benefit everyone? Can you do it yourself? If not, does it require lots of time, money or resources from other people? The Hackspace does not have an excess of these, so it’s best to assume that you will have to implement your own ideas.
+
+There is a helpful template for making suggestions `on the wiki <https://wiki.nottinghack.org.uk/wiki/Meeting_suggestion_template>`_.
 
 How can I volunteer?
 --------------------
