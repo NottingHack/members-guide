@@ -19,3 +19,4 @@ The LPS is an area designed for storing those projects that are too large for a 
 
 Items stored on the LPS shelves must be labelled with a label printed through HMS. This ensures we have all the important information when auditing the shelves. These are typically checked during a Hack the Space Day. Items without labels will be disposed of and owners of improperly labelled items will be contacted. If your project has been inactive for more than 3 months, you may also be contacted.
 
+Do Not Hack labels intentionally leave space to write the current date whenever you work on the project. When you work on a project which is being stored in LPS, you should update this, preferably by writing the current date in the box, or by printing a new label.
