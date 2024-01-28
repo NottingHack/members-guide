@@ -54,7 +54,7 @@ Social Media and Groups
 
 Google Group - https://groups.google.com/group/nottinghack
 ``````````````````````````````````````````````````
-The main place for discussion outside of the Hackspace itself is our Google Group mailing list, which is open to contributions from anyone.
+You can subscribe to the discussion group by email. Emails that you send to this will be distributed to those that subscribe. This is good for non-members to ask questions. It's also a good place to ask about making a donation if you're not on Discord.
 
 Facebook - https://www.facebook.com/nottinghack
 ```````````````````````````````````````
