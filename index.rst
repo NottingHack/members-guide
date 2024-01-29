@@ -29,18 +29,12 @@ You might feel a bit reticent as a new member, but it’s important to remember 
    pledge-drives
    storage
    do-not-hack
-   comfy
-   studio
-   craft
-   workshop
-   kitchen
-   blue
-   electronics-3d
+   areas
    snackspace
    cleaning-improving
    guests
    questions
-
+   contributing
 
 Indices and tables
 ==================

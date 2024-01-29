@@ -10,12 +10,14 @@ The letters **'DNH'** on their own **do not** constitute a correct label.
 Generating a label
 ------------------
 
-To generate a Do Not Hack label first go to the `Hackspace Management System (HMS) <https://hms.nottinghack.org.uk>`_ and log in.
+To generate a Do Not Hack label:
 
-Once logged in you can navigate to the 'Projects' area using the navigation buttons.
+1. Go to the `Hackspace Management System (HMS) <https://hms.nottinghack.org.uk>`_ and log in.
 
-Using the 'Add New Project' button lets you create a new project, simply completing a title and short description is all that’s required. 
+2. Navigate to the 'Projects' area using the navigation buttons.
 
-Once your project is saved; simply click the 'Print DNH Label' option to get your label printed automatically! The printer on the Large Project Shelves will create you a custom sticker containing all the necessary information, ready to be applied.
+3. Using the 'Add New Project' button lets you create a new project, simply completing a title and short description is all that’s required.
 
-Note the **Print** button will only appears while in the Hackspace and using the hackspace network.
+4. Once your project is saved; simply click the 'Print DNH Label' option to get your label printed automatically! The printer on the Large Project Shelves will create you a custom sticker containing all the necessary information, ready to be applied.
+
+Note the **Print** button will only appears while in the Hackspace and using the hackspace network. This can be done from your phone while connected to the WiFi, or from any of the computers around the hackspace.

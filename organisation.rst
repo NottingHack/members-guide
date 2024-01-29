@@ -3,9 +3,9 @@ Hackspace Organisation and Teams
 
 Nottingham Hackspace is registered as a non-profit limited company (Reg. No. 07766826). Surplus after rent and other expenses are used for tools, consumables, and Hackspace improvements (such as infrastructure and refurbishment work).
 
-An elected Board of Trustees comprised of seven people oversee Nottingham Hackspace; ensuring financial sustainability and managing critical issues. All of the board are volunteers, Nottinghack does not have any paid employees or membership tiers. **Members' meetings are held in the Hackspace at 20:00, on the first Wednesday of each month.** These meetings, and votes conducted at the meetings, are open to all members. The agenda for next months meeting can be found here:  https://wiki.nottinghack.org.uk/wiki/Agenda
+An elected Board of Trustees comprised of seven people oversee Nottingham Hackspace; ensuring financial sustainability and managing critical issues. All of the board are volunteers, Nottinghack does not have any paid employees or membership tiers. **Members' meetings are held in the Hackspace at 20:00, on the first Wednesday of each month in the Blue Room and on Zoom.** These meetings, and votes conducted at the meetings, are open to all members. The agenda for next months meeting can be found here:  https://wiki.nottinghack.org.uk/wiki/Agenda
 
-Please find details of the board members here: http://wiki.nottinghack.org.uk/wiki/Board. Board elections take place each May, any member can stand for election.
+Please find details of the board members here: http://wiki.nottinghack.org.uk/wiki/Trustees. Trustee elections take place each May, any member can stand for election.
 
 Our constitution is also available on the wiki: https://wiki.nottinghack.org.uk/wiki/Constitution
 
@@ -13,7 +13,7 @@ Teams
 -----
 The day-to-day running of the Hackspace is done by every one of our members. Even quick and simple things like tidying up or putting tools back into their proper storage are a great help.
 
-More specific activites are managed by teams within the Hackspace, a list of which can be found below. Please remember the Hackspace is a community and not a service; we can't guarantee tool uptime or material availability. The teams are all members like yourself, who volunteer their time to help make the space better.
+More specific activites are managed by teams within the Hackspace, a list of which can be found below. Please remember the Hackspace is a community and not a service; we do not guarantee tool uptime or material availability. The teams are all members like yourself, who volunteer their time to help make the space better.
 
 Want to get involved in a team? Drop them an email, or ask them when they're in the space. You can find more information about Teams on the wiki: https://wiki.nottinghack.org.uk/wiki/Teams
 
@@ -21,7 +21,7 @@ Safety - safety@nottinghack.org.uk
 ``````````````````````````````````
 Safety at Nottingham Hackspace is paramount. The trustees are primarily responsible for safety but members can offer assistance to ensure that protective equipment is available, monitor safety of our tools, and identify any new risks that may appear.
 
-Please remember: **Wear protective equipment when using tools.** Be sure to read, understand, and follow all the safety rules needed for power tools. Using tools properly reduces risk of injury to yourself and others.
+Please remember: **Wear protective equipment when using tools.** Be sure to read, understand, and follow all the safety rules needed for power tools. Using tools properly reduces risk of injury to yourself and others. Some tools require an induction - you must not use these if you are not inducted on the tool.
 
 3D Printing - 3dprinting@nottinghack.org.uk
 ```````````````````````````````````````````
@@ -41,7 +41,7 @@ The CNC team looks after the CNC area and related computer aided manufacturing t
 
 Communications - comms@nottinghack.org.uk
 `````````````````````````````````````````
-The Communications team look after our outward facing presence such as our website, newsletter, twitter and facebook. If you have interesting photos of the Hackspace, or something you'd like to ask around promotion, get in touch with them.
+The Communications team look after our outward facing presence such as our website, newsletter, mastodon, twitter and facebook. If you have interesting photos of the Hackspace, or something you'd like to ask around promotion, get in touch with them.
 
 Craft & Textiles - craft@nottinghack.org.uk
 ```````````````````````````````````````````

@@ -22,15 +22,25 @@ To log in, please click the link titled: “Already a member? Login”, then ent
 
 HMS is managed by the Software team.
 
+
+Discord - https://wiki.nottinghack.org.uk/Discord
+`````````````````````````````````````````````````
+Discord is an instant messaging platform which we to allow teams and members to communicate. Your discord account needs to be linked to your Hackspace Management System account in order to see the majority of channels.
+
+We have a separate policy on using Discord, which covers some basic netiquette. This can be found as `Appendix C on our rules site <https://rules.nottinghack.org.uk/en/latest/discord.html>`_.
+
+Our Discord also has a number of commands which interact in some way with the hackspace. For example, you can check the temperature of various areas by sending "!temp", or search the Wiki with "!wiki <search term>"
+
 Wiki - https://wiki.nottinghack.org.uk
 ``````````````````````````````
 The Nottinghack Wiki is where we store information around projects and equipment, as well as organisation details for big events such as Makerfaire and EMF. As a member please feel free to start a user page to hold build logs of your projects, or when you're collaborating with other members on projects and need a place to store information.
 
 You can use your HMS account details to log into the wiki and make edits.
 
-Planet Nottinghack - https://planet.nottinghack.org.uk
-``````````````````````````````````````````````
-If you blog about Hackspace relevant stuff, projects you've made here or the subject of making and hacking as a whole, you’d be most welcome to contribute your feed to Planet Nottinghack. Many members run their own blogs, and Planet Nottinghack uses RSS to collect them all into one place.  If you would like to be included on this, please open a pull request against the GitHub repository.  If you’re not sure how to do this then ask on the Google Group.
+Rules - https://rules.nottinghack.org.uk
+````````````````````````````````````````
+You should be aware of all Nottingham Hackspace rules and our complaints policy. These are broken up into sections, much like this guide.
+
 
 Members Guide - https://guide.nottinghack.org.uk
 ````````````````````````````````````````
@@ -38,16 +48,12 @@ This members guide is available online, where you can also download PDF and Epub
 
 Want to help contribute to this guide? Make a pull request against it on GitHub or talk to the Membership team.
 
-Other forms of interaction
+Social Media and Groups
 --------------------------
-
-Discord - https://wiki.nottinghack.org.uk/Discord
-`````````````````````````````````````````````````
-Discord is an instant messaging platform which we to allow teams and members to communicate. Your discord account needs to be linked to your Hackspace Management System account in order to see the majority of channels.
 
 Google Group - https://groups.google.com/group/nottinghack
 ``````````````````````````````````````````````````
-The main place for discussion outside of the Hackspace itself is our Google Group mailing list, which is open to contributions from anyone.
+You can subscribe to the discussion group by email. Emails that you send to this will be distributed to those that subscribe. This is good for non-members to ask questions. It's also a good place to ask about making a donation if you're not on Discord.
 
 Facebook - https://www.facebook.com/nottinghack
 ```````````````````````````````````````
@@ -63,10 +69,10 @@ Mastodon is a lot like Twitter, but decentralised and hosted by an individual or
 
 Instagram - https://instagram.com/nottinghack
 `````````````````````````````````````````````
-A popular photo sharing account.
+A popular photo sharing account - tag us in your posts! We love to share your projects.
 
 Flickr - https://www.flickr.com/groups/nottinghack/
 ```````````````````````````````````````````
-The Nottinghack account on Flickr contains all the photos that are automatically uploaded from the Hackspace camera.  You can normally find this hanging from a hook on the wall next to the giant “H” in the studio - please take pictures of the project you are working on!
+The Nottinghack account on Flickr contains all the photos that are automatically uploaded from the Hackspace camera.
 
-If you are already a member of Flickr, you can contribute photos to the Nottinghack Group as well.
+If you are already a member of Flickr, please contribute your photos to the Nottinghack group.
