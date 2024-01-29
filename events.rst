@@ -18,7 +18,7 @@ The best way to stay up to date with events in the hackspace is to join our `Dis
 Member's Meeting
 ^^^^^^^^^^^^^^^^
 
-All members are invited to the monthly members meeting. These occur on the first Wednesday of each month at 20:00. You can attend remotely via Zoom, or just us in the Blue Room downstairs. The agenda is published at least a few days prior to the meeting, which can be found on the Wiki `Agenda <https://wiki.nottinghack.org.uk/index.php?title=Agenda>`_ page.
+All members are invited to the monthly member's meeting. These occur on the first Wednesday of each month at 20:00. You can attend remotely via Zoom, or just us in the Blue Room downstairs. The agenda is published at least a few days prior to the meeting, which can be found on the Wiki `Agenda <https://wiki.nottinghack.org.uk/index.php?title=Agenda>`_ page.
 
 We use the meeting as an opportunity to provide updates on improvements to the space, plan areas to be worked on, and receive updates from various teams.
 

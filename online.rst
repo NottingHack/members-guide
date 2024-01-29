@@ -39,7 +39,6 @@ You can use your HMS account details to log into the wiki and make edits.
 
 Rules - https://rules.nottinghack.org.uk
 ````````````````````````````````````````
-
 You should be aware of all Nottingham Hackspace rules and our complaints policy. These are broken up into sections, much like this guide.
 
 

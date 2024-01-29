@@ -10,7 +10,7 @@ The letters **'DNH'** on their own **do not** constitute a correct label.
 Generating a label
 ------------------
 
-To generate a Do Not Hack label,
+To generate a Do Not Hack label:
 
 1. Go to the `Hackspace Management System (HMS) <https://hms.nottinghack.org.uk>`_ and log in.
 

@@ -3,7 +3,7 @@ Health & Safety
 
 **Health & Safety is the responsibility of every member of Nottingham Hackspace.** It is the duty of each member to make sure they are safe and not endangering the people around them.
 
-The Hackspace has a lot of potentially dangerous tools available to members; if you are not confident with a tool or machine, or haven't used it before, you should ask to be inducted on it. For machines without specific inductions (see the Teams section), another member will typically be willing to provide advice; the best places to ask are the Google Group, Discord, or an Open Hack event.
+The Hackspace has a lot of potentially dangerous tools available to members; if you are not confident with a tool or machine, or haven't used it before, you should ask to be inducted on it. For machines without specific inductions (see the Teams section), another member will typically be willing to provide advice; the best places to ask are the `Google Group <https://groups.google.com/g/nottinghack/>`_, `Discord <https://wiki.nottinghack.org.uk/wiki/Discord>`_, or an Open Hack event.
 
 Safety equipment (PPE) is readily available within the workshop; a range of PPE such as goggles, gloves, face masks, and other such items are kept ready for use by all members and topped up on a regular basis.
 

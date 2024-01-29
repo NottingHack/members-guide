@@ -17,7 +17,7 @@ The hackspace has around 500 members and the amount they pay per month ranges fr
 
 If you are using the space once or twice a month, we would encourage you to try and pay £15/mo, if possible.
 
-I've lost my member's card!
+I've lost my RFID card!
 ---------------------------
 
 No problem! Email membership@nottinghack.org.uk using the account registered on HMS (this helps us verify it's you). We will send you a new pin code and ask you to pop £1 in the donation tin. Membership cards cost us approximately 70 pence each. Once you have your membership pin, you'll be able to pick up a new card at whatever time suits you. There are some instructions on the wiki about how to do this, `Gatekeeper Setup <https://wiki.nottinghack.org.uk/wiki/HMS/Gatekeeper_Setup>`_.
