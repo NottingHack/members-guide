@@ -144,6 +144,9 @@ html_logo = "img/logo.png"
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+extensions = [
+    "sphinxcontrib.jquery",
+]
 
 def setup(app):
     app.add_css_file("custom.css")
