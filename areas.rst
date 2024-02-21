@@ -40,7 +40,7 @@ The heart of Nottingham Hackspace is the workshop, where you’ll find most tool
 * General hand and power tools for joinery
 * Large sink plus screen printing equipment
 * Metalworking area with metal lathe, milling machine and welding equipment.
-* Dusty area 
+* Dusty area including large woodworking tools eg table saw
 * Spraybooth
 
 Please replace tools back in their correct storage when you have finished with them, and tidy up any dust or mess made by the tools being used.
