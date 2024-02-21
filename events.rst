@@ -15,10 +15,10 @@ Typical Events and Themes
 
 The best way to stay up to date with events in the hackspace is to join our `Discord <online.html#discord-https-wiki-nottinghack-org-uk-discord>`_ server. We try to post these on our website too on the `What's On <https://nottinghack.org.uk/calender/>`_ page.
 
-Member's Meeting
+Members' Meeting
 ^^^^^^^^^^^^^^^^
 
-All members are invited to the monthly member's meeting. These occur on the first Wednesday of each month at 20:00. You can attend remotely via Zoom, or just us in the Blue Room downstairs. The agenda is published at least a few days prior to the meeting, which can be found on the Wiki `Agenda <https://wiki.nottinghack.org.uk/index.php?title=Agenda>`_ page.
+All members are invited to the monthly members' meeting. These occur on the first Wednesday of each month at 20:00. You can attend remotely via Zoom, or just us in the Blue Room downstairs. The agenda is published at least a few days prior to the meeting, which can be found on the Wiki `Agenda <https://wiki.nottinghack.org.uk/index.php?title=Agenda>`_ page.
 
 We use the meeting as an opportunity to provide updates on improvements to the space, plan areas to be worked on, and receive updates from various teams.
 
@@ -52,8 +52,14 @@ Combat Robotics
 
 This is more of a general theme than a recurring event. Occasionally we host combat robot tournaments, have watch parties for combat robot events, and run workshops on how to build your own combat robot. These are typically ant-weight robots (i.e. small), rather than the ones on Robot Wars with massive flame throwers.
 
+
 Swap Shops
 ^^^^^^^^^^
 
 One solution to excessive donation requests is instead to host swap shops! This is effectively a car boot sale, but inside the hackspace and there are no cars. Bring your stuff, swell, swap or give away. The only rule is that you take everything home with you, whether that's because you brought it, or because you bought it or got given it.
 
+
+One Shot Wonders
+^^^^^^^^^^^^^^^^
+
+A monthly meetup to play a one-shot RPG adventure.
