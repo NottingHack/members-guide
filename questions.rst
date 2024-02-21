@@ -49,7 +49,7 @@ If you are a new member and don’t yet have a card, then you can collect one by
 I have some concerns about another member, a trustee or the space
 -----------------------------------------------------------------
 
-If you think another member is breaking any hackspace rules, its important to let the trustees know. This allows us to keep the hackspace a safe and welcoming place. You can do this by emailing the trustees at trustees@nottinghack.org.uk. If you have an issue with a specific trustee, you should contact another one. We have a full list of our current trustees on the `Trustees <https://wiki.nottinghack.org.uk/wiki/Trustees>`_ page. Your complaint will be handled with discretion.
+If you think another member is breaking any hackspace rules, it's important to let the trustees know. This allows us to keep the hackspace a safe and welcoming place. You can do this by emailing the trustees at trustees@nottinghack.org.uk. If you have an issue with a specific trustee, you should contact another one. We have a full list of our current trustees on the `Trustees <https://wiki.nottinghack.org.uk/wiki/Trustees>`_ page. Your complaint will be handled with discretion.
 
 If you have a complaint about the Space itself, it’s worth keeping in mind that the Hackspace is a community, not a service. It will only continue to exist and become better if members (including you) work hard to make it happen. See "I have a great idea..." FAQ below.
 
