@@ -40,7 +40,7 @@ The heart of Nottingham Hackspace is the workshop, where you’ll find most tool
 * General hand and power tools for joinery
 * Large sink plus screen printing equipment
 * Metalworking area with metal lathe, milling machine and welding equipment.
-* Dusty area 
+* Dusty area including large woodworking tools eg table saw
 * Spraybooth
 
 Please replace tools back in their correct storage when you have finished with them, and tidy up any dust or mess made by the tools being used.
@@ -56,7 +56,7 @@ The kitchen is equipped with storage, tea making facilities, a microwave, a dish
 
 More details about the kitchen are on the wiki https://wiki.nottinghack.org.uk/wiki/Kitchen
 
-The Blue room
+The Blue Room
 -------------
 
 The Blue Room is provided as a peaceful area where members can work if there is a large event going on in the main space, wish to work in a small group, or simply wish to work quietly on their laptop or one of the PCs open to use by members. In winter, it’s also one of the smaller areas of the Hackspace that can be heated more economically than the other rooms.
