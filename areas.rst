@@ -6,7 +6,7 @@ Comfy Area
 
 The comfy are is a place where people tend to congregate and socialise. With a projector, soft furnishings, coffee tables, and shelves full of books, it's an excellent place to relax.
 
-A sound system and Raspberry Pi is available for use along with the projector.
+A sound system and Raspberry Pi is available for use along with the projector. There are some more details about how to use this on the `wiki <https://wiki.nottinghack.org.uk/wiki/Comfy_Area_AV>`_.
 
 The museum of oddities exists for us to showcase interesting items that we've collected over the years, from decades old consoles to an Amstrad phone. These items are not available for hacking, but if you've got something quirky you'd like to donate for display then feel free to let us know.
 
