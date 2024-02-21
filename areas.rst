@@ -36,7 +36,7 @@ The Workshop
 The heart of Nottingham Hackspace is the workshop, where you’ll find most tools along with various consumables. Facilities in the workshop include:
 
 * General purpose workbenches
-* The laser cutter, 
+* The laser cutter
 * General hand and power tools for joinery
 * Large sink plus screen printing equipment
 * Metalworking area with metal lathe, milling machine and welding equipment.
