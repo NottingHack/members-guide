@@ -3,7 +3,7 @@ The Hackspace Online
 
 Nottingham Hackspace maintains a wide online presence, with sites ranging from our social media and mailing list to our wiki and internal tools like HMS. Our online presence is one of the main ways we attract new members, communicate with existing ones, and promote our events and workshops. If you're able to help promote us from time to time whether by retweet, share or like, it is a big help toward attracting new people.
 
-We welcome contributions to all these sites; if you'd like to get involved with any please contact the relevant team, who's details can be found in Section 1.3 - Hackspace Organisation.
+We welcome contributions to all these sites; if you'd like to get involved with any please contact the relevant team, whose details can be found in Section 1.3 - Hackspace Organisation.
 
 Websites
 --------
@@ -16,7 +16,7 @@ The website is managed by our Comms team.
 
 Hackspace Management System (HMS) - https://hms.nottinghack.org.uk/
 ``````````````````````````````````````````````````````````````````
-HMS was developed by Hackspace members to organise and manage our ever-increasing group. Every Hackspace member registers an account on HMS as part of their signup, allowing them to view their Snackspace balance, book time on tools, see our door access codes, and update their contact details when they change. HMS is also use to manage member project and print approved Do Not Hack labels.
+HMS was developed by Hackspace members to organise and manage our ever-increasing group. Every Hackspace member registers an account on HMS as part of their signup, allowing them to view their Snackspace balance, book time on tools, see our door access codes, and update their contact details when they change. HMS is also use to manage member projects and print approved Do Not Hack labels.
 
 To log in, please click the link titled: “Already a member? Login”, then enter your username and password.
 
@@ -25,7 +25,7 @@ HMS is managed by the Software team.
 
 Discord - https://wiki.nottinghack.org.uk/Discord
 `````````````````````````````````````````````````
-Discord is an instant messaging platform which we to allow teams and members to communicate. Your discord account needs to be linked to your Hackspace Management System account in order to see the majority of channels.
+Discord is an instant messaging platform which we use to allow teams and members to communicate. Your discord account needs to be linked to your Hackspace Management System account in order to see the majority of channels.
 
 We have a separate policy on using Discord, which covers some basic netiquette. This can be found as `Appendix C on our rules site <https://rules.nottinghack.org.uk/en/latest/discord.html>`_.
 

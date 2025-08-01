@@ -36,7 +36,7 @@ You might feel a bit reticent as a new member, but it’s important to remember 
    questions
    contributing
 
-Indices and tables
+Indexes and tables
 ==================
 
 * :ref:`genindex`
