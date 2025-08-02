@@ -4,7 +4,7 @@ Hackspace Rooms and Areas
 Comfy Area
 ----------
 
-The comfy are is a place where people tend to congregate and socialise. With a projector, soft furnishings, coffee tables, and shelves full of books, it's an excellent place to relax.
+The comfy area is a place where people tend to congregate and socialise. With a projector, soft furnishings, coffee tables, and shelves full of books, it's an excellent place to relax.
 
 A sound system and Raspberry Pi is available for use along with the projector. There are some more details about how to use this on the `wiki <https://wiki.nottinghack.org.uk/wiki/Comfy_Area_AV>`_.
 
@@ -24,7 +24,7 @@ On the far wall there is a list of benefactors that made it possible for us to m
 Craft Room
 ----------
 
-The craft room (also known as the Textiles Workshop) contains consumables for you to use, as well as specilised tools and equipment for crafty projects. This ranges from basics such as needles, threads, and fabric to kits for lace making, candle making, mosaic tiles, and more.
+The craft room (also known as the Textiles Workshop) contains consumables for you to use, as well as specialised tools and equipment for crafty projects. This ranges from basics such as needles, threads, and fabric to kits for lace making, candle making, mosaic tiles, and more.
 
 We are always happy to take suggestions of kits or improvements you’d like to see to the contents of the Craft Room, simply contact the Craft team to get involved.
 
@@ -39,7 +39,7 @@ The heart of Nottingham Hackspace is the workshop, where you’ll find most tool
 * The laser cutter
 * General hand and power tools for joinery
 * Large sink plus screen printing equipment
-* Metalworking area with metal lathe, milling machine and welding equipment.
+* Metalworking area with metal lathe, milling machine and welding equipment
 * Dusty area including large woodworking tools eg table saw
 * Spraybooth
 
@@ -50,7 +50,7 @@ Details of the workshop can be found on the wiki https://wiki.nottinghack.org.uk
 The Kitchen
 -----------
 
-The kitchen is equipped with storage, tea making facilities, a microwave, a dishwasher, a fridge and a freezer. Tea and coffee are always free to members and there is a donations jar in the kitchen for any contributions towards fresh milk and other sundries. Mugs are in the cupboard above the fridge, is also for members to store things such as drinks or lunch. Please label and use everything you keep in there or dispose of it before it goes off. Unlabelled food or items past their sell-by date will be disposed of.
+The kitchen is equipped with storage, tea making facilities, a microwave, a dishwasher, a fridge and a freezer. Tea and coffee are always free to members and there is a donations jar in the kitchen for any contributions towards fresh milk and other sundries. Mugs are in the cupboard above the fridge, which is also for members to store things such as drinks or lunch. Please label and use everything you keep in there, or dispose of it before it goes off. Unlabelled food or items past their sell-by date will be disposed of.
 
 **Please recycle!** In the kitchen you will find labelled recycling bins for cardboard, cans, plastic bottles, etc.
 
@@ -77,4 +77,4 @@ The electronics section is divided into three main benches - the soldering bench
 
 There are also many drawers of components which you are welcome to use for testing circuits and making quick repairs. We do not maintain stocks of components so these are just various bits we have accumulated over the years.
 
-The 3D printing section has a number of FDM printers and an Anycubic Photon SLA printer. There is a computer nearby for you to generate SLA files and copy things to a USB memory stick.
+The 3D printing section has a number of FDM printers. There is a computer nearby for you to generate files and copy things to a USB memory stick, or access the printers directly via the network.

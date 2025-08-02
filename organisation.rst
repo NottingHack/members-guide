@@ -29,7 +29,7 @@ The 3D Printing team is responsible for the maintenance, improvements and induct
 
 Bike Team - biketeam@nottinghack.org.uk
 ````````````````````````````````````
-The bike team are responsible for the bike area and its tools.
+The bike team is responsible for the bike area and its tools.
 
 CNC - cnc@nottinghack.org.uk
 ````````````````````````````
