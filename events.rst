@@ -2,9 +2,11 @@ Regular Events
 ==============
 We run weekly Membership Tours with tickets available on Eventbrite, `for more information see our website <https://nottinghack.org.uk/join-us/>`_.
 
-We have occasional Open Days on Saturdays, which are organised by the Membership team and promoted by the Comms team.
+.. COMMENTED THIS OUT FOR NOW, AS ALTHOUGH IT IS MISLEADING AS OF TODAY, IT MAY COME BACK
 
-Exhibition days happen occasionally. On these days we ask members to come into the space to work and demonstrate their projects, so the public are able to visit the Hackspace and understand more about who we are and what we do.
+.. We have occasional Open Days on Saturdays, which are organised by the Membership team and promoted by the Comms team.
+
+.. Exhibition days happen occasionally. On these days we ask members to come into the space to work and demonstrate their projects, so the public are able to visit the Hackspace and understand more about who we are and what we do.
 
 There are regular workshops, talks and groups on various subjects, which are often member-led and typically open to the public as well. Upcoming events are promoted on our social media, in the newsletter, the Google Group, and on the Nottinghack homepage. We'd love to hear from you if you're interested in running a workshop, a talk, or a regular group.
 
@@ -18,7 +20,7 @@ The best way to stay up to date with events in the hackspace is to join our `Dis
 Members' Meeting
 ^^^^^^^^^^^^^^^^
 
-All members are invited to the monthly members' meeting. These occur on the first Wednesday of each month at 20:00. You can attend remotely via Zoom, or just us in the Blue Room downstairs. The agenda is published at least a few days prior to the meeting, which can be found on the Wiki `Agenda <https://wiki.nottinghack.org.uk/index.php?title=Agenda>`_ page.
+All members are invited to the monthly members' meeting. These occur on the first Wednesday of each month at 20:00. You can attend remotely via Zoom, or join us in the Blue Room downstairs. The agenda is published at least a few days prior to the meeting, and can be found on the Wiki `Agenda <https://wiki.nottinghack.org.uk/index.php?title=Agenda>`_ page.
 
 We use the meeting as an opportunity to provide updates on improvements to the space, plan areas to be worked on, and receive updates from various teams.
 
@@ -40,11 +42,12 @@ Film Nights
 
 Film nights are a great way to relax with fellow members. We are currently aiming for about 1 film per month, and these often include food before hand. We keep track of suggestions and upcoming films using the Wiki on the `Film Night <https://wiki.nottinghack.org.uk/wiki/Film_Night>`_ page.
 
+.. AGAIN THESE MAY COME BACK
 
-Ukulele Jams
-^^^^^^^^^^^^
+.. Ukulele Jams
+.. ^^^^^^^^^^^^
 
-The great thing about the ukulele is you can still have fun despite not knowing what you're doing. These happen fairly randomly and are organised on Discord.
+.. The great thing about the ukulele is you can still have fun despite not knowing what you're doing. These happen fairly randomly and are organised on Discord.
 
 
 Combat Robotics
@@ -56,7 +59,7 @@ This is more of a general theme than a recurring event. Occasionally we host com
 Swap Shops
 ^^^^^^^^^^
 
-One solution to excessive donation requests is instead to host swap shops! This is effectively a car boot sale, but inside the hackspace and there are no cars. Bring your stuff, swell, swap or give away. The only rule is that you take everything home with you, whether that's because you brought it, or because you bought it or got given it.
+One solution to excessive donation requests is instead to host swap shops! This is effectively a car boot sale, but inside the hackspace and there are no cars. Bring your stuff, sell, swap or give away. The only rule is that you take everything home with you, whether that's because you brought it, or because you bought it or got given it.
 
 
 One Shot Wonders

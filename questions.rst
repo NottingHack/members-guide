@@ -3,7 +3,7 @@ Questions and FAQs
 
 If you have any questions or requests, the best place to ask is Discord. We have a warm and growing community there, full of people who are happy to help out and provide quick responses. If you're a new member, you can also ask questions from the tour guide before the weekly tour, starting at 19:00.
 
-Membership enquiries and handled through the membership team: membership@nottinghack.org.uk.
+Membership enquiries are handled through the membership team: membership@nottinghack.org.uk.
 
 If you need to discuss something in private, or have a complaint, please contact the trustees at trustees@nottinghack.org.uk.
 
@@ -20,7 +20,7 @@ If you are using the space once or twice a month, we would encourage you to try 
 I've lost my RFID card!
 ---------------------------
 
-No problem! Email membership@nottinghack.org.uk using the account registered on HMS (this helps us verify it's you). We will send you a new pin code and ask you to pop £1 in the donation tin. Membership cards cost us approximately 70 pence each. Once you have your membership pin, you'll be able to pick up a new card at whatever time suits you. There are some instructions on the wiki about how to do this, `Gatekeeper Setup <https://wiki.nottinghack.org.uk/wiki/HMS/Gatekeeper_Setup>`_.
+No problem! Email membership@nottinghack.org.uk using the account registered on HMS (this helps us verify it's you). We will send you a new pin code and ask you to pop £1 in the donation tin. Membership cards cost us approximately 70 pence each. Once you have your membership PIN, you'll be able to pick up a new card at whatever time suits you. There are some instructions on the wiki about how to do this, `Gatekeeper Setup <https://wiki.nottinghack.org.uk/wiki/HMS/Gatekeeper_Setup>`_.
 
 How do I end my membership?
 ---------------------------
@@ -92,7 +92,7 @@ How long do I have to wait for a tool induction?
 
 Tool inductions are done by members in their free time, and unfortunately some tools have more inductors than others. Typically you will hear back within a week or two for tools like the laser cutter or embroidery machine.
 
-For the larger metalworking tools, we no longer run internal inductions but we have an arrangement with West Notts College for members to attend metalworking courses. If you have suitable qualifications for these tools then please contact the metalworking team to gain access.
+For the larger metalworking tools, we no longer run internal inductions but we have an arrangement with West Notts College for members to attend metalworking courses. If you already have suitable qualifications for these tools then please contact the metalworking team to gain access.
 
 
 I have a great idea to improve the space, how do I make a suggestion?

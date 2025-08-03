@@ -3,9 +3,9 @@ Health & Safety
 
 **Health & Safety is the responsibility of every member of Nottingham Hackspace.** It is the duty of each member to make sure they are safe and not endangering the people around them.
 
-The Hackspace has a lot of potentially dangerous tools available to members; if you are not confident with a tool or machine, or haven't used it before, you should ask to be inducted on it. For machines without specific inductions (see the Teams section), another member will typically be willing to provide advice; the best places to ask are the `Google Group <https://groups.google.com/g/nottinghack/>`_, `Discord <https://wiki.nottinghack.org.uk/wiki/Discord>`_, or an Open Hack event.
+The Hackspace has a lot of potentially dangerous tools available to members; if you are not confident with a tool or machine, or haven't used it before, you should ask for some help. For machines without specific inductions (see the Teams section), another member will typically be willing to provide advice; the best place to ask is `Discord <https://wiki.nottinghack.org.uk/wiki/Discord>`_.
 
-Safety equipment (PPE) is readily available within the workshop; a range of PPE such as goggles, gloves, face masks, and other such items are kept ready for use by all members and topped up on a regular basis. Please ensure PPE is used. If it appears to be running low, you can help by informing the trustees.
+Safety equipment (PPE) is readily available within the workshop; a range of PPE such as goggles, gloves, face masks, and other such items is kept ready for use by all members and topped up on a regular basis. Please ensure PPE is used. If it appears to be running low, you can help by informing the trustees.
 
 When in doubt about another member's safety do approach them to discuss it, or raise it with the `Safety Team`__. Every Hackspace member has the right and responsibility to challenge unsafe behaviours.
 
@@ -21,6 +21,11 @@ First Aid Boxes are kept stocked and checked periodically. Please ensure you are
 * **Kitchen** next to the recycling.
 * **Workshop** as you enter from the studio, on the shelving to your left.
 * **Downstairs Metalworking** on the left as you enter, opposite the members' storage room.
+
+Bleed control kits are also available:
+
+* **Dusty Area** near the flaps at the entrance.
+* **Metalworking Area** above a bench.
 
 If you use anything from these boxes, please report the injury using the accident reporting form explained below.
 

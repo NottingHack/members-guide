@@ -5,6 +5,4 @@ Children are welcome at Nottinghack, however be aware that it is primarily an ad
 
 Pets are also welcome in the space! They must be supervised and shouldn't be anywhere loud or dangerous. Make sure your pet is under control and comfortable around strangers.
 
-**Under-16s, and 16-18 year olds must be accompanied by an adult**, and are generally expected to be engaged with the space some way (such as working on a project). Periodically we have events specifically for children of all ages.
-
-.. __: mailto:membership@nottinghack.org.uk
+**Under-16s, and 16-18 year olds must be accompanied by an adult**, and are generally expected to be engaged with the space in some way (such as working on a project). Periodically we have events specifically for children of all ages.
